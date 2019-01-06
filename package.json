@@ -1,6 +1,6 @@
 {
   "name": "squareroot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "application for solvig quadratic equation",
   "repository": "https://github.com/ipteamlab/squarerooteb",
   "main": "main.js",
