@@ -1,0 +1,25 @@
+{
+  "name": "squareroot",
+  "version": "1.0.0",
+  "description": "application for solvig quadratic equation",
+  "repository": "https://github.com/ipteamlab/squarerooteb",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "build --win",
+    "ship": "build --win -p always"
+  },
+
+  "author": "Lozovik",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "electron-updater": "^4.0.6",
+    "mathjax": "^2.7.5",
+    "semantic-ui-css": "^2.2.12"
+  },
+  "devDependencies": {
+    "electron": "^3.0.10",
+    "electron-builder": "^20.38.4"
+  }
+}
